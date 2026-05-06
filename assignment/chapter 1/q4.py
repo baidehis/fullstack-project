@@ -1,5 +1,0 @@
-n = int(input())
-
-sum = n * (n + 1) // 2
-
-print("The sum of the first", n, "positive integers is", sum)
